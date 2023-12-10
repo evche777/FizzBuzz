@@ -8,6 +8,15 @@ public class Tests
     FizzBuzz fizzBuzz = new FizzBuzz();
 
     [Test]
+    public void Given1IsPassedItReturnsANonEmptyListContaining1()
+    {
+        var output = fizzBuzz.execute(1);
+
+        output.Count.Should().Be(1);
+        output[0].Should().Be("1");
+    }
+
+    [Test]
     public void Given2IsPassedItReturnsANonEmptyListContaining1And2()
     {
         var output = fizzBuzz.execute(2);
