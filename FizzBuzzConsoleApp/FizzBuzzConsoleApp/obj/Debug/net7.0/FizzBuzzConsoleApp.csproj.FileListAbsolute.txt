@@ -1,0 +1,14 @@
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/bin/Debug/net7.0/FizzBuzzConsoleApp
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/bin/Debug/net7.0/FizzBuzzConsoleApp.deps.json
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/bin/Debug/net7.0/FizzBuzzConsoleApp.runtimeconfig.json
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/bin/Debug/net7.0/FizzBuzzConsoleApp.dll
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/bin/Debug/net7.0/FizzBuzzConsoleApp.pdb
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/obj/Debug/net7.0/FizzBuzzConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/obj/Debug/net7.0/FizzBuzzConsoleApp.AssemblyInfoInputs.cache
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/obj/Debug/net7.0/FizzBuzzConsoleApp.AssemblyInfo.cs
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/obj/Debug/net7.0/FizzBuzzConsoleApp.csproj.CoreCompileInputs.cache
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/obj/Debug/net7.0/FizzBuzzConsoleApp.dll
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/obj/Debug/net7.0/refint/FizzBuzzConsoleApp.dll
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/obj/Debug/net7.0/FizzBuzzConsoleApp.pdb
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/obj/Debug/net7.0/FizzBuzzConsoleApp.genruntimeconfig.cache
+/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzConsoleApp/obj/Debug/net7.0/ref/FizzBuzzConsoleApp.dll

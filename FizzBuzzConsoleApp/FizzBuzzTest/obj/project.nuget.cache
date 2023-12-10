@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4oFEx1WYnk4OyknrTx0Z2e6fesDW2gDS+yDVFW9CA7/6NE2fzlGpRqSTBZ8NI/8/sziOny06g3xdWq6NjltdAQ==",
+  "dgSpecHash": "yzWTHfZD4VXSyW5O5uiMGqk+uDy3z6EG3Q5kRUHeqEcmA5Ru1EMYr+ts9VGXr65VLbRQHUILy7yzgjEbfijNQQ==",
   "success": true,
   "projectFilePath": "/Users/eva/Documents/projects/test/FizzBuzz/FizzBuzzConsoleApp/FizzBuzzTest/FizzBuzzTest.csproj",
   "expectedPackageFiles": [
     "/Users/eva/.nuget/packages/coverlet.collector/3.2.0/coverlet.collector.3.2.0.nupkg.sha512",
+    "/Users/eva/.nuget/packages/fluentassertions/6.12.0/fluentassertions.6.12.0.nupkg.sha512",
     "/Users/eva/.nuget/packages/microsoft.codecoverage/17.7.1/microsoft.codecoverage.17.7.1.nupkg.sha512",
     "/Users/eva/.nuget/packages/microsoft.net.test.sdk/17.7.1/microsoft.net.test.sdk.17.7.1.nupkg.sha512",
     "/Users/eva/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
@@ -16,7 +17,9 @@
     "/Users/eva/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
     "/Users/eva/.nuget/packages/nunit.analyzers/3.6.1/nunit.analyzers.3.6.1.nupkg.sha512",
     "/Users/eva/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
-    "/Users/eva/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+    "/Users/eva/.nuget/packages/system.configuration.configurationmanager/4.4.0/system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "/Users/eva/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/eva/.nuget/packages/system.security.cryptography.protecteddata/4.4.0/system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
   ],
   "logs": []
 }
