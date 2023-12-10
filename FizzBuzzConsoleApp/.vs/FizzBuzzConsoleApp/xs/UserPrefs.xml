@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{D97DD1E7-E695-499A-AC82-43EA48BE4C13}|Default">
+  <MonoDevelop.Ide.ItemProperties.FizzBuzzTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.FizzBuzzConsoleApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
