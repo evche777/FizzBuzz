@@ -1,8 +1,12 @@
-﻿class FizzBuzzMainClass
+﻿using MathsTask;
+
+class FizzBuzzMainClass
 {
     static void Main(string[] args)
     {
-        // Display the number of command line arguments.
-        Console.WriteLine(args.Length);
+        int x = Convert.ToInt32(Console.ReadLine());
+        var output = new FizzBuzz().execute(x);
+        output.ForEach(entry => Console.WriteLine(entry));
+        Console.ReadLine();
     }
 }
